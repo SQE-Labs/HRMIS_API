@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/PC/Downloads/HRMIS_Rest_Api"><classes><class name="Api_Request.LeaveApplyTest"><methods><include name="applyForLeave"/></methods></class></classes></test></suite>
